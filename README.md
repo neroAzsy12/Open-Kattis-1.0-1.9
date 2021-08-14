@@ -9,3 +9,4 @@
 | [Hello World!](https://open.kattis.com/problems/hello)<a name="Hello World!"></a> | hello.java | 1.2 | Java |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)<a name="Quadrant Selection"></a> | quadrant.cpp | 1.2 | C++ |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)<a name="Quality-Adjusted Life-Year"></a> | qaly.cpp | 1.2 | C++ |
+| [Stopwatch](https://open.kattis.com/problems/stopwatch)<a name="Stopwatch"></a> | stopwatch.cpp | 1.3 | C++ |
