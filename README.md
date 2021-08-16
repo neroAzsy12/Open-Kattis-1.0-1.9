@@ -8,6 +8,7 @@
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)<a name="Chanukah Challenge"></a> | chanukah | Java |
 | [Hello World!](https://open.kattis.com/problems/hello)<a name="Hello World!"></a> | hello | Java |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)<a name="Nasty Hacks"></a> | nastyhacks | Python |
+| [No Duplicates](https://open.kattis.com/problems/nodups)<a name="No Duplicates"></a> | nodups | Java |
 | [Pet](https://open.kattis.com/problems/pet)<a name="Pet"></a> | pet | Java |
 | [Pot](https://open.kattis.com/problems/pot)<a name="Pot"></a> | pot | Python |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)<a name="Quadrant Selection"></a> | quadrant | C++ |
