@@ -7,6 +7,7 @@
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)<a name="Add Two Numbers"></a> | addtwonumbers.py | Python |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)<a name="Chanukah Challenge"></a> | chanukah.java | Java |
 | [Hello World!](https://open.kattis.com/problems/hello)<a name="Hello World!"></a> | hello.java | Java |
+| [Pot](https://open.kattis.com/problems/pot)<a name="Pot"></a> | pot.py | Python |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)<a name="Quadrant Selection"></a> | quadrant.cpp | C++ |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)<a name="Quality-Adjusted Life-Year"></a> | qaly.cpp | C++ |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems)<a name="Rating Problems"></a> | ratingproblems.py | Python |
