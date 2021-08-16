@@ -9,7 +9,8 @@
 | [Hello World!](https://open.kattis.com/problems/hello)<a name="Hello World!"></a> | hello.java | Java |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)<a name="Quadrant Selection"></a> | quadrant.cpp | C++ |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)<a name="Quality-Adjusted Life-Year"></a> | qaly.cpp | C++ |
+| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)<a name="Sort Two Numbers"></a> | sorttwonumbers.java | Java |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)<a name="Stopwatch"></a> | stopwatch.cpp | C++ |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)<a name="Stuck In A Time Loop"></a> | timeloop.cpp | C++ |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)<a name="Take Two Stones"></a> | twostones.py | Python |
-| [Tarifa](https://open.kattis.com/problems/tarifa)<a name="tarifa"></a> | tarifa.cpp | C++ |
+| [Tarifa](https://open.kattis.com/problems/tarifa)<a name="Tarifa"></a> | tarifa.cpp | C++ |
