@@ -6,12 +6,13 @@
 | --- | --- | --- |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)<a name="Add Two Numbers"></a> | addtwonumbers | Python |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)<a name="alphabetspam"></a> | alphabetspam | C++ |
-| [Chanukah Challenge](https://open.kattis.com/problems/chanukah)<a name="Chanukah Challenge"></a> | chanukah | Java |
 | [Batter Up](https://open.kattis.com/problems/batterup)<a name="Batter Up"></a> | batterup | C++ |
 | [Bela](https://open.kattis.com/problems/bela)<a name="Bela"></a> | bela | C++ |
 | [Bijele](https://open.kattis.com/problems/bijele)<a name="Bijele"></a> | bijele | Python |
 | [Boat Parts](https://open.kattis.com/problems/boatparts)<a name="Boat Parts"></a> | boatparts | C++ |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah)<a name="Chanukah Challenge"></a> | chanukah | Java |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)<a name="Cold-puter Science"></a> | cold | Java |
+| [Costume Contest](https://open.kattis.com/problems/costumecontest)<a name="Costume Contest"></a> | costumecontest | Java |
 | [Cyrptographer's Conundrum](https://open.kattis.com/problems/conundrum)<a name="Cryptographer's Conundrum"></a> | conundrum | C++ |
 | [Datum](https://open.kattis.com/problems/datum)<a name="Datum"></a> | datum | Java |
 | [Dice Cup](https://open.kattis.com/problems/dicecup)<a name="Dice Cup"></a> | dicecup | Python |
