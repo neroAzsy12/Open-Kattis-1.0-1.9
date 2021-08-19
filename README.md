@@ -24,6 +24,7 @@
 | [Greetings!](https://open.kattis.com/problems/greetings2)<a name="Greetings!"></a> | greetings2 | Python |
 | [Heart Rate](https://open.kattis.com/problems/heartrate)<a name="Heart Rate"></a> | heartrate | Java |
 | [Hello World!](https://open.kattis.com/problems/hello)<a name="Hello World!"></a> | hello | Java |
+| [Homework](https://open.kattis.com/problems/heimavinna)<a name="Homework"></a> | heimavinna | Python |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards)<a name="ICPC Awards"></a> | icpcawards | Java |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)<a name="IsItHalloween.com"></a> | isithalloween | Java |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)<a name="I've Been Everywhere, Man"></a> | everywhere | Java |
