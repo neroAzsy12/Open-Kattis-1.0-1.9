@@ -45,3 +45,5 @@
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)<a name="Stuck In A Time Loop"></a> | timeloop | C++ |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)<a name="Take Two Stones"></a> | twostones | Python |
 | [Tarifa](https://open.kattis.com/problems/tarifa)<a name="Tarifa"></a> | tarifa | C++ |
+| [Trik](https://open.kattis.com/problems/trik)<a name="Trik"></a> | trik | C++ |
+| [Zamka](https://open.kattis.com/problems/zamka)<a name="Zamka"></a> | zamka | Java |
