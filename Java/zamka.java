@@ -11,9 +11,9 @@ public class zamka {
     }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int L = Integer.parseInt(br.readLine());
-        int D = Integer.parseInt(br.readLine());
-        int X = Integer.parseInt(br.readLine());
+        int L = Integer.parseInt(br.readLine());    // starting range
+        int D = Integer.parseInt(br.readLine());    // ending range
+        int X = Integer.parseInt(br.readLine());    // target sum
 
         for (int i = L; i <= D; i++) {
             if (sumOfDigits(i) == X) {
