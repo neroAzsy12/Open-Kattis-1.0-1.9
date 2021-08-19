@@ -6,6 +6,8 @@
 | --- | --- | --- |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)<a name="Add Two Numbers"></a> | addtwonumbers | Python |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)<a name="Chanukah Challenge"></a> | chanukah | Java |
+| [Bela](https://open.kattis.com/problems/bela)<a name="Bela"></a> | bela | C++ |
+| [Bijele](https://open.kattis.com/problems/bijele)<a name="Bijele"></a> | bijele | Python |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)<a name="Cold-puter Science"></a> | cold | Java |
 | [Cyrptographer's Conundrum](https://open.kattis.com/problems/conundrum)<a name="Cryptographer's Conundrum"></a> | conundrum | C++ |
 | [Datum](https://open.kattis.com/problems/datum)<a name="Datum"></a> | datum | Java |
