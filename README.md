@@ -33,7 +33,7 @@
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)<a name="Last Factorial Digit"></a> | lastfactorialdigit | C++ |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)<a name="Magic Trick"></a> | magictrick | Java |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)<a name="Nasty Hacks"></a> | nastyhacks | Python |
-| [No Duplicates](https://open.kattis.com/problems/nodups)<a name="No Duplicates"></a> | nodups | Java |
+| [No Duplicates](https://open.kattis.com/problems/nodups)<a name="No Duplicates"></a> | nodup | Java |
 | [Pet](https://open.kattis.com/problems/pet)<a name="Pet"></a> | pet | Java |
 | [Planina](https://open.kattis.com/problems/planina)<a name="Planina"></a> | planina | Java |
 | [Pot](https://open.kattis.com/problems/pot)<a name="Pot"></a> | pot | Python |
