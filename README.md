@@ -2,7 +2,7 @@
 
 | Problem | Problem ID | Language |
 | --- | --- | --- |
-| [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)<a name="Add Two Numbers"></a> | addtwonumbers | Python, Java |
+| [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | addtwonumbers | Python, Java |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)<a name="alphabetspam"></a> | alphabetspam | C++ |
 | [Batter Up](https://open.kattis.com/problems/batterup)<a name="Batter Up"></a> | batterup | C++ |
 | [Bela](https://open.kattis.com/problems/bela)<a name="Bela"></a> | bela | C++ |
